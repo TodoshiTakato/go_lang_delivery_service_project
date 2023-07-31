@@ -21,4 +21,4 @@
 go.work
 
 # Untracked directories
-.idea/
+.idea
